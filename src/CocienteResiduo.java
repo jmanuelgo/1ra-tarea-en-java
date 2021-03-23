@@ -17,6 +17,6 @@ public class CocienteResiduo {
             res=res+1;
         }
         System.out.println("El cociente es: "+res+ " el resto es: " +a);
-        System.out.println("Si esta bien esto se verá");
+        
     }
 }
